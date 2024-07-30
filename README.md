@@ -2,7 +2,7 @@
 <h3 align="center">I'm Information Technology Undergraduate!</h3>
 
 
-- 🌱 I’m currently learning **Java Script, React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **imashihasinika79@gmail.com**
 
