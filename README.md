@@ -9,7 +9,7 @@ I love building efficient data solutions with <b>Python, SQL, and Cloud Technolo
 ---
 
 ### 🌱 Currently Learning  
-- ** Advanced SQL, Apache Airflow, Machine Learning for Data Engineering**  
+- ** Advanced SQL, Big Data, Apache Airflow, Machine Learning for Data Engineering**  
 
 ### 📫 How to Reach Me  
 - 📧 **Email:** imashihasinika79@gmail.com  
