@@ -41,13 +41,16 @@ I love building efficient data solutions with <b>Python, SQL, and Cloud Technolo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="55" height="55"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="55" height="55"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="55" height="55" style="background-color: white; border-radius: 10px;"/> 
   </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="55" height="55"/> 
   </a> 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55" height="55"/> 
+  </a> 
+  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="85" height="55"/> 
   </a> 
 </p>
 
