@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Imashi Hasinika</h1>
-<h3 align="center">I'm Information Technology Undergraduate!</h3>
+<h3 align="center">🚀 Aspiring Data Engineer & Data Scientist | IT Undergraduate | Azure Certified</h3>
 
+<p align="center">
+I'm an <b>Information Technology undergraduate at SLIIT</b>, specializing in <b>Data Science</b>, with a strong passion for <b>Data Engineering, ETL, Big Data, and Machine Learning</b>.  
+I love building efficient data solutions with <b>Python, SQL, and Cloud Technologies</b>.
+</p>
 
-- 🌱 I’m currently learning **Python**
+---
 
-- 📫 How to reach me **imashihasinika79@gmail.com**
+### 🌱 Currently Learning  
+- ** Advanced SQL, Apache Airflow, Machine Learning for Data Engineering**  
 
+### 📫 How to Reach Me  
+- 📧 **Email:** imashihasinika79@gmail.com  
+- 💼 **LinkedIn:** www.linkedin.com/in/imashi-hasinika-5b1023318 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
