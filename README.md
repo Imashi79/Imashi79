@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imashi Hasinika</h1>
-<h3 align="center">🚀 Aspiring Data Engineer & Data Scientist | IT Undergraduate | Azure Certified</h3>
+<h3 align="center">🚀 Aspiring Data Engineer & Data Scientist | IT Undergraduate </h3>
 
 <p align="center">
 I'm an <b>Information Technology undergraduate at SLIIT</b>, specializing in <b>Data Science</b>, with a strong passion for <b>Data Engineering, ETL, Big Data, and Machine Learning</b>.  
