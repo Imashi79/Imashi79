@@ -52,9 +52,10 @@ I love building efficient data solutions with <b>Python, SQL, and Cloud Technolo
   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="85" height="55"/> 
 </a> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; background-color: white; border-radius: 10px; padding: 5px;">
-  <img src="https://seeklogo.com/images/P/power-bi-logo-F8B2726908-seeklogo.com.png" alt="Power BI" width="55" height="55"/> 
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="55" height="55" style="background-color: white; border-radius: 10px; padding: 5px;" />
 </a>
+
 </p>
 
 
