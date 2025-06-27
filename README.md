@@ -70,14 +70,10 @@ I’m passionate about building scalable data pipelines and unlocking insights u
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Imashi79&show_icons=true&theme=tokyonight" alt="Imashi's GitHub Stats"/>
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Imashi79&theme=tokyonight" alt="GitHub Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
+   <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imashi79&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    </td>
+  </td>
+     <tr>
     <td align="center">
       <img src="https://komarev.com/ghpvc/?username=Imashi79&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
     </td>
