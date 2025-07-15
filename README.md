@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imashi Hasinika</h1>
-<h3 align="center">🚀 Aspiring Data Engineer & Data Scientist | IT Undergraduate at SLIIT</h3>
+<h3 align="center">🚀 Aspiring Data Engineer & Data Scientist | DS Undergraduate at SLIIT</h3>
 
 <p align="center">
 🎓 I'm currently pursuing a Bachelor's in <strong>Information Technology specializing in Data Science</strong> at <strong>SLIIT</strong>.<br>
