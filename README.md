@@ -9,8 +9,7 @@ I’m passionate about building scalable data pipelines and unlocking insights u
 ---
 
 ### 🌱 Currently Learning  
-- Advanced SQL & Query Optimization  
-- Apache Airflow & Big Data Tools  
+- PySpark 
 - Machine Learning for Data Engineering  
 
 ---
